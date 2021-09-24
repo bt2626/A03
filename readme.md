@@ -4,20 +4,31 @@
 
 ![Image](https://github.com/bt2626/A03/blob/master/webstrom.jpg)
 
-# Step 2: Install Git
+Downaload and install Webstorm.
+
+# Step 2: Download Git
 
 ![Image](https://github.com/bt2626/A03/blob/master/git.jpg)
 
-# Step 3: Create a GitHub account
+# Step 3: Install Git
+
+![Image](https://github.com/bt2626/A03/blob/master/install%20page.jpg)
+
+#Step 4: Check is Git installed 
+
+![Image](https://github.com/bt2626/A03/blob/master/terminal.jpg)
+
+# Step 5: Create a GitHub account
 
 ![Image](https://github.com/bt2626/A03/blob/master/create%20acc.jpg)
 
-# Step 2: Create a new repository
+# Step 6: Create a new repository
 
 ![Image](https://github.com/bt2626/A03/blob/master/repository.jpg)
 
-# Step 3: Create a project
+# Step 7: Create a project
 
+![Image](https://github.com/bt2626/A03/blob/master/Welcome%20page.jpg)
 ![Image](https://github.com/bt2626/A03/blob/master/project.jpg)
 
 # Step 4: Create the md file
