@@ -6,6 +6,8 @@
 
 # Step 2: Install Git
 
+![Image](https://github.com/bt2626/A03/blob/master/git.jpg)
+
 
 # Step 1: Create a GitHub account
 
