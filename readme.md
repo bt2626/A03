@@ -31,13 +31,17 @@ Downaload and install Webstorm.
 ![Image](https://github.com/bt2626/A03/blob/master/Welcome%20page.jpg)
 ![Image](https://github.com/bt2626/A03/blob/master/project.jpg)
 
-# Step 4: Create the md file
+# Step 8: Create the md file
 
 ![Image](https://github.com/bt2626/A03/blob/master/create%20md.jpg)
 
-# Step 5: 
+# Step 9: 
 
 ![Image](https://github.com/bt2626/A03/blob/master/github.jpg)
+
+# Step 10:
+
+![Image](https://github.com/bt2626/A03/blob/master/github%20rep.jpg)
 
 
 
