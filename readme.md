@@ -35,11 +35,11 @@ Downaload and install Webstorm.
 
 ![Image](https://github.com/bt2626/A03/blob/master/create%20md.jpg)
 
-# Step 9: 
+# Step 9: Share the project to Github.
 
 ![Image](https://github.com/bt2626/A03/blob/master/github.jpg)
 
-# Step 10:
+# Step 10: Repository will appear on Github.
 
 ![Image](https://github.com/bt2626/A03/blob/master/github%20rep.jpg)
 
