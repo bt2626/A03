@@ -38,6 +38,8 @@ Downaload and install Webstorm.
 # Step 9: Share the project to Github.
 
 ![Image](https://github.com/bt2626/A03/blob/master/github.jpg)
+![Image](https://github.com/bt2626/A03/blob/master/share%20projct.jpg)
+
 
 # Step 10: Repository will appear on Github.
 
