@@ -14,7 +14,7 @@ Downaload and install Webstorm.
 
 ![Image](https://github.com/bt2626/A03/blob/master/install%20page.jpg)
 
-#Step 4: Check is Git installed 
+# Step 4: Check is Git installed 
 
 ![Image](https://github.com/bt2626/A03/blob/master/terminal.jpg)
 
