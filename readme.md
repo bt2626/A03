@@ -6,19 +6,19 @@
 
 # Step 2: Create a new repository
 
-![Image](/Users/brian/Desktop/repository.jpg)
+![Image](https://github.com/bt2626/A03/blob/master/repository.jpg)
 
 # Step 3: Create a project
 
-![Image](/Users/brian/Desktop/project.jpg)
+![Image](https://github.com/bt2626/A03/blob/master/project.jpg)
 
 # Step 4: Create the md file
 
-![Image](/Users/brian/Desktop/create md.jpg)
+![Image](https://github.com/bt2626/A03/blob/master/create%20md.jpg)
 
 # Step 5: Push it to GitHub
 
-![Image](/Users/brian/Desktop/github.jpg)
+![Image](https://github.com/bt2626/A03/blob/master/github.jpg)
 
 
 Branch :  
