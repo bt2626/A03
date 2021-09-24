@@ -50,7 +50,7 @@ Downaload and install Webstorm.
 
 
 
-**Branch** -  A branch represents an independent line of development
+**Branch** *A branch represents an independent line of development
 
 **Clone** -  Creates a local copy of a project that already exists remotely includes all the codes, project’s files, history, and branches.
 
