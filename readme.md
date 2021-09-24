@@ -4,7 +4,7 @@
 
 ![Image](https://github.com/bt2626/A03/blob/master/webstrom.jpg)
 
-Downaload and install Webstorm.
+Download and install Webstorm.
 
 # Step 2: Download Git
 
