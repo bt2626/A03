@@ -2,7 +2,7 @@
 
 # Step 1: Create a GitHub account
 
-![Image](https://github.com/bt2626/A03/blob/master/project.jpg)
+![Image](https://github.com/bt2626/A03/blob/master/create acc.jpg)
 
 # Step 2: Create a new repository
 
