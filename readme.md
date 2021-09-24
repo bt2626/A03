@@ -50,24 +50,24 @@ Downaload and install Webstorm.
 
 
 
-Branch :  A branch represents an independent line of development
+**bold text**Branch :  A branch represents an independent line of development
 
-Clone :  Creates a local copy of a project that already exists remotely includes all the codes, project’s files, history, and branches.
+**bold text**Clone :  Creates a local copy of a project that already exists remotely includes all the codes, project’s files, history, and branches.
 
-Commit :  Saves the snapshot to the project history and completes the change process.
+**bold text**Commit :  Saves the snapshot to the project history and completes the change process.
 
-Fetch :  Allows you download files from the remote repository to your local repository however fetch does not merge.
+**bold text**Fetch :  Allows you download files from the remote repository to your local repository however fetch does not merge.
 
-Github : GitHub is a Git repository hosting service.
+**bold text**Github : GitHub is a Git repository hosting service.
 
-Merge : Combine multiple sequences of commits into one unified history. 
+**bold text**Merge : Combine multiple sequences of commits into one unified history. 
 
-Merge Conflict :  Merge conflicts happen when you merge branches that have competing commits.
+**bold text**Merge Conflict :  Merge conflicts happen when you merge branches that have competing commits.
 
-Push : Upload local repository content to a remote repository. 
+**bold text**Push : Upload local repository content to a remote repository. 
 
-Pull :  Updates the local line of development with updates from its remote counterpart. Developers use this command t0 tell others about changes you've pushed to a branch in a repository on GitHub.
+**bold text**Pull :  Updates the local line of development with updates from its remote counterpart. Developers use this command t0 tell others about changes you've pushed to a branch in a repository on GitHub.
 
-Remote : Remote lets you create, view, and delete connections to other repositories.
+**bold text**Remote : Remote lets you create, view, and delete connections to other repositories.
 
-Repository :  A directory or storage space where you storage your project.
+**bold text**Repository :  A directory or storage space where you storage your project.
