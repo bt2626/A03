@@ -68,7 +68,7 @@ Downaload and install Webstorm.
 
 * **Push** : Upload local repository content to a remote repository. 
 
-* **Pull** :  Updates the local line of development with updates from its remote counterpart. Developers use this command t0 tell others about changes you've pushed to a branch in a repository on GitHub.
+* **Pull** :  Updates the local line of development with updates from its remote counterpart. Developers use this command to tell others about changes you've pushed to a branch in a repository on GitHub.
 
 * **Remote** : Remote lets you create, view, and delete connections to other repositories.
 
